@@ -14,8 +14,6 @@ categories = [
 +++
 # The Enigmatic Time Capsule
 
-*By [Your Name]*
-
 On a crisp and sunny morning of September 10, 2023, in the small town of Willowbrook, something extraordinary happened that would change the lives of its inhabitants forever. 
 
 ## **Chapter 1: The Discovery**
